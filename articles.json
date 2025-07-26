@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Awesome",
+    "dep": "lsslksos",
+    "icon": "/murgo.js",
+    "id": "1"
+  }
+]
