@@ -2,7 +2,7 @@
   {
     "name": "Awesome",
     "dep": "lsslksos",
-    "icon": "<i class="fad fas-js"></i>",
+    "icon": "<i class='fad fas-js'></i>",
     "id": "1"
   }
 ]
