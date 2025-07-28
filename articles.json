@@ -2,7 +2,7 @@
   {
     "name": "Markdown turorial",
     "dep": "Covers 50% of markdown (.md) files",
-    "icon": "<i class='fas w-20 h-20 fa-markdown'></i>",
+    "icon": "<img src='https://simpleicons.org/icons/markdown.svg' class='w-20 h-20' alt='md'>",
     "id": "1"
   }
 ]
