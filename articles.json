@@ -1,8 +1,8 @@
 [
   {
-    "name": "Awesome",
-    "dep": "lsslksos",
-    "icon": "<i class='fab w-20 h-20 fas-html5'></i>",
+    "name": "Markdown turorial",
+    "dep": "Covers 50% of markdown (.md) files",
+    "icon": "<i class='fas w-20 h-20 fa-markdown'></i>",
     "id": "1"
   }
 ]
